@@ -1,2 +1,2 @@
 # ifmt
-arquivos IFMT (TSI)
+arquivos IFMT TSI
